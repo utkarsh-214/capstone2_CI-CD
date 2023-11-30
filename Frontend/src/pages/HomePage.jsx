@@ -11,16 +11,16 @@ import Footer from "../components/Layout/Footer";
 const HomePage = () => {
   return (
     <div>
-        {/* <Header activeHeading={1} />
+        <Header activeHeading={1} />
         <Hero />
         <Categories />
         <BestDeals />
         <Events />
         <FeaturedProduct />
-        <Sponsored /> */}
+        <Sponsored />
         <Footer />
     </div>
   )
 }
 
-export default HomePage;
+export default HomePage
